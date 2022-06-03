@@ -18,4 +18,4 @@ The [Programming Fundamentals](https://softuni.bg/trainings/3366/java-fundamenta
 - Database basics
 - **Git** and **GitHub**
 
-**Certificates:** https://softuni.bg/users/profile/certificates?username=DanailValentinovIvanov
+**Certificate:** https://softuni.bg/certificates/details/111403/d24b070d
