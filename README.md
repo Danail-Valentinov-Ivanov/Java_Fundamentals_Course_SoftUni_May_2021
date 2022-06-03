@@ -7,7 +7,7 @@ The [Programming Fundamentals](https://softuni.bg/trainings/3366/java-fundamenta
 ## Course content
 - Basic syntax, conditional statement and loops
 - Data types and variables
-- Basic **HTML** & **CSS**
+- Basic HTML & CSS
 - **Arrays**, **Lists** and **Associative arrays**
 - **Methods**
 - **Objects** and **Classes**
@@ -16,4 +16,4 @@ The [Programming Fundamentals](https://softuni.bg/trainings/3366/java-fundamenta
 - **Text processing**
 - Basic bitwise operations
 - Database basics
-- Git and GitHub
+- **Git** and **GitHub**
