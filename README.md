@@ -17,3 +17,5 @@ The [Programming Fundamentals](https://softuni.bg/trainings/3366/java-fundamenta
 - Basic bitwise operations
 - Database basics
 - **Git** and **GitHub**
+
+**Certificate:** https://softuni.bg/users/profile/certificates?username=DanailValentinovIvanov
